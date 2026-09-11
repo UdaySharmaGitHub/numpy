@@ -15,3 +15,12 @@
 
 ----
 ### NumPy statistical function
+
+----
+
+### Type of Numpy Array
+
+----
+
+### 2D Numpy Arrays
+  - 2D Array Subsetting
